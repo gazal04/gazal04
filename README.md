@@ -35,8 +35,15 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## 🚀 Languages and Tools:
- <p align="left">
-      
+  <p align="left">
+      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+          alt="blender"
+          width="50"
+          height="50"
+        />
+      </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -77,8 +84,22 @@
           height="50"
         />
       </a>
-   
-   
+      <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
+          alt="gcp"
+          width="50"
+          height="50"
+        />
+      </a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+          alt="git"
+          width="50"
+          height="50"
+        />
+      </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -87,7 +108,18 @@
           height="50"
         />
       </a>
-   
+      <a
+        href="https://www.adobe.com/in/products/illustrator.html"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
+          alt="illustrator"
+          width="50"
+          height="50"
+        />
+      </a>
       <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
