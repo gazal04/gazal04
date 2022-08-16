@@ -101,19 +101,19 @@
  
 
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kar2410&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gazal04&theme=algolia)](https://git.io/streak-stats)
 
 
 
     
-  <a href="https://github.com/kar2410/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/gazal04/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
- <a href="https://github.com/kar2410/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kar2410&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/gazal04/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kar2410&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
 
 
 
-<a href="https://github.com/kar2410/github-readme-activity-graph"><img alt="Kartik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kar2410&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/gazal04/github-readme-activity-graph"><img alt="Kartik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kar2410&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
