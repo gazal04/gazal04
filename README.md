@@ -36,6 +36,14 @@
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## 🚀 Languages and Tools:
   <p align="left">
+     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
+          alt="blender"
+          width="50"
+          height="50"
+        />
+      </a>
     
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
