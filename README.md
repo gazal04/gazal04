@@ -11,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/kartikv67801698" target="blank"><img src="https://img.shields.io/twitter/follow/kartikv67801698?logo=twitter&style=for-the-badge"/></a> </p>
 
 
-<img style="margin-top: -70px" align="right" width="500" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> 
+<img style="margin-top: -100px" align="right" width="500" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> 
 
 
 
