@@ -35,15 +35,15 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## 🚀 Languages and Tools:
- <p align="left">
-      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+   <p align="left">
+  <!--     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img
           src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
           alt="blender"
           width="50"
           height="50"
         />
-      </a>
+      </a> -->
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -229,6 +229,7 @@
         />
       </a>
     </p>
+
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kar2410&theme=algolia)](https://git.io/streak-stats)
 
