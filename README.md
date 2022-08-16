@@ -140,7 +140,7 @@
           height="50"
         />
       </a>
-     <!--  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
           alt="mongodb"
@@ -227,8 +227,9 @@
           width="50"
           height="50"
         />
-      </a> -->
+      </a>
     </p>
+
 
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kar2410&theme=algolia)](https://git.io/streak-stats)
