@@ -35,7 +35,7 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## 🚀 Languages and Tools:
-    <p align="left">
+ <p align="left">
   <!--     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img
           src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
@@ -229,6 +229,7 @@
         />
       </a>
     </p>
+
 
 
     
