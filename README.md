@@ -5,10 +5,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gazal04&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/kar2410" width="200px" height="30px" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gazal04&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/gazal04" width="200px" height="30px" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/kartikv67801698" target="blank"><img src="https://img.shields.io/twitter/follow/kartikv67801698?logo=twitter&style=for-the-badge"/></a> </p>
 
 
 <img style="margin-top: -100px" align="right" width="500" height="300"  src="https://code.ankitpathshala.com/wp-content/uploads/2020/12/homeAvatar.gif"> 
