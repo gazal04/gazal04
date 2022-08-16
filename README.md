@@ -106,14 +106,14 @@
 
 
     
-  <a href="https://github.com/gazal04/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kar2410&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/gazal04/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazal04&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
- <a href="https://github.com/gazal04/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kar2410&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/gazal04/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gazal04&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
 
 
 
-<a href="https://github.com/gazal04/github-readme-activity-graph"><img alt="Kartik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kar2410&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/gazal04/github-readme-activity-graph"><img alt="Gazal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gazal04&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 
