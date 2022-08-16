@@ -1,6 +1,6 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://gazal04.io)
 <!-- https://chkskills.com/wp-content/uploads/2020/04/banner-bg.gif -->
-<h1 align="center">👋 Good to have you here!!</h1>s
+<h1 align="center">👋 Good to have you here!!</h1>
 <h3 align="center">I'm B.Tech undergraduate from NIT SILCHAR</h3>
 
 
